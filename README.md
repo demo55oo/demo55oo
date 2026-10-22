@@ -1,5 +1,5 @@
 <h1 align="center">Adham Mansour</h1>
-<p align="center"><b>Used to be an engineer. Now I ship AI products.</b><br/>AI agents · MCP servers · Voice AI · Automation · Integrations · Alexandria, Egypt</p>
+<p align="center"><b>I love coding and building stuff. That's it.</b><br/>AI agents · MCP servers · Voice AI · Automation · Integrations · Alexandria, Egypt</p>
 
 <p align="center">
 <a href="https://x.com/adhamai_dev"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
