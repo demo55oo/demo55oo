@@ -48,6 +48,14 @@
 | **Software Engineer** | Circle | Built AI voice agents and agent workflows. |
 | **Software Engineer** | Koodera | Built web apps, CRM and company sites end to end. |
 
+## Building with Cursor
+
+<p>
+<a href="https://cursor.com/@automaster"><img src="https://img.shields.io/badge/Tokens-2.2B-6E56CF?style=for-the-badge&labelColor=000000" alt="Tokens 2.2B" /></a> <a href="https://cursor.com/@automaster"><img src="https://img.shields.io/badge/AI%20agents-102-6E56CF?style=for-the-badge&labelColor=000000" alt="AI%20agents 102" /></a> <a href="https://cursor.com/@automaster"><img src="https://img.shields.io/badge/Longest%20agent-6.5h-6E56CF?style=for-the-badge&labelColor=000000" alt="Longest%20agent 6.5h" /></a> <a href="https://cursor.com/@automaster"><img src="https://img.shields.io/badge/Longest%20streak-29%20days-6E56CF?style=for-the-badge&labelColor=000000" alt="Longest%20streak 29%20days" /></a>
+</p>
+
+Most of my day-to-day building happens with AI agents in Cursor. [See my Cursor profile](https://cursor.com/@automaster).
+
 ## Tech stack
 
 **AI / agents**<br/>
