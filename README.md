@@ -41,9 +41,12 @@
 
 ## Experience
 
-- **CTO / Technical Lead**, [Ayra](https://ayra.cx)
-- **Freelance AI and automation developer (Top Rated)**, [Upwork](https://www.upwork.com/freelancers/~017f599d472c338106)
-<!-- TODO: add past roles -->
+| Role | Where | What I do |
+|---|---|---|
+| **CTO / Technical Lead** | [Ayra](https://ayra.cx) | Lead the platform for a white-label AI voice and chat agent SaaS. Agencies run AI agents for their own clients, with deep CRM and field-service integrations. |
+| **Freelance Software Engineer, Top Rated** | [Upwork](https://www.upwork.com/freelancers/~017f599d472c338106) | Build AI voice agents, chat agents and automations for clients worldwide: LLM agents, n8n workflows, APIs and integrations. |
+| **Software Engineer** | Circle | Built AI voice agents and agent workflows. |
+| **Software Engineer** | Koodera | Built web apps, CRM and company sites end to end. |
 
 ## Tech stack
 
